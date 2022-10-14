@@ -7,3 +7,6 @@ HTML | <ul> <li> https://www.youtube.com/watch?v=qz0aGYrrlhU </li> <li>https://w
 CSS | <ul> <li> https://www.youtube.com/watch?v=yfoY53QXEnI </li> <li> https://www.freecodecamp.org/learn/responsive-web-design/ </li> </ul>
 JavaScript | <ul> <li> https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s </li> <li> https://www.youtube.com/watch?v=PkZNo7MFNFg </li> <li> https://www.w3schools.com/js/ </li> </ul>
 Version Control System | <ul> <li> https://www.youtube.com/watch?v=SWYqp7iY_Tc </li> <li> https://www.youtube.com/watch?v=apGV9Kg7ics</li> </ul>
+Code Editor | <ul> <li> https://www.youtube.com/watch?v=AJnhqf5IRC4 </li> <li> https://www.youtube.com/watch?v=1FKrum01oLI</li> </ul>
+Front-End Boilerlates | <ul> <li> https://html5boilerplate.com/ </li> </ul>
+Front-End Assets | <ul> <li> https://fonts.google.com/ </li> </ul>
