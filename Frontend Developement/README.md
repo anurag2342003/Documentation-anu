@@ -1,5 +1,5 @@
 # Frontend Development
-## Roadmap to start frontend development along with resources 
+## Roadmap to start frontend development along with resources:
 Topic | Resources
 --- | --- 
 Internet | <ul><li> https://www.vox.com/2014/6/16/18076282/the-internet </li><li> http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm </li> <li>https://www.youtube.com/watch?v=x3c1ih2NJEg </li></ul> 
